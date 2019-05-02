@@ -13,7 +13,13 @@ The goal was to create a Burger App using Node Express Handlebars and our own OR
 * handlebars NPM Package - https://www.npmjs.com/package/handlebars
 * express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
 
+## ScreenShots
 
+![alt text](public/assets/img/readme.png)
+
+![alt text](public/assets/img/readme1.png)
+
+![alt text](public/assets/img/readme2.png)
 
 
 
